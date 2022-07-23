@@ -1,2 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2022-07-23T11:39:05.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.48" etag="nd59rClg-tn9fFGsCG72" version="20.2.0" type="github"><diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">7Vptb6M4EP41+XgRYF4/btPt3knbU3W7un6MHHCIFYORcZr0fv3Z4ACxaTdqE0hWQW1lxoPNzDPP2B46AbNs943BYvVIE0QmjpXsJuB+4ji26zgT+WMlr7UkiLxakDKcKKVW8AP/h5TQUtINTlB5oMgpJRwXh8KY5jmK+YEMMka3h2pLSg5nLWCKDMGPGBJT+owTvlJS27Lajj8RTldq6tBTHQsYr1NGN7maL6c5qnsyuB9GqZYrmNBtRwS+TsCMUcrrVrabISLduvdY/dzDG73NKzOU82Me8CMUL9Ey9mLXRq4T/2GH6sX4694PKBFuUbeVKeCuMg7JMSxxt+IZEU1bNAlcIHLX2D+jhLL2MZQnXyQwraTkjK4b9wrz75Y05w8ww0RGzb+IJTCHSqxCZB9XXSuV4SXdsBi9ZZqKIchSxN/QAbWONLkzsPLdN0QzxNmrUGCIQI5fDiMFqoBLG73W86KhnH8sEPWYL5Bs1CwGMDirIvgI/08csKwuoaKeusdZKl6K4IX4GxNczCHjopkjvqVsjXPZ+4yFoags5//QDUdsbjvhTvxOC9HbjQI5dRPKMiRimuFYtfsx/jWYL4hxtHsXBtXrBopOKtO4vso025a3oVJZdRlrnQE4xwDur1z4Tvh1BABnhG6S88Cm3vWJlphjmgthjKShokMih0Ui/a4pcFqIXkhw2qv+RXUsKOc0Ex1nCA3btcYLDTv6bZMrOCK5OheTXIHB0QeR6bZQPjU4R/dTD0VTVkf5myzNcJJI6xuiErTkPTRt9M5AUycakaauER0/4YIMlb8FuIVcbEvRxk/wTNn785B51iFkgTUiZJ4B2dNseLgeaY45ZfOfdHu5myXbO8TNH3NF9E3cGK62BYODpya+FtjcMWELLoJuz2IJLTmUy9alohYAjWzBiKiFBmqPdIEJGgY5Lk6SwvnZJhebiGqrIde3ldiqXip4obbCed6I4EUGeN9hIQ9Ug9Pub8QXlK4/g1rnDazq6scTE9LRfKiung2uvO8b8RQhYGtZd8xNzv5dfo8YOCdzgaPtTe0xYTuilNcBSov6WXX1MccPQ/sOiJ6UwQSjlgPq+L8X34vzZazOdjll0v4eCARahXyZbJfKcv5UHVHLqczZc4Lz9bw+uH+mInFU/eEDhH63NKH2mO+WJtQ4vyxNdOKn+Q7QDaBGeHQNQ83xRMXusxPA2tIDIi0ya4vVU21wGgO52kCOPlDtFmOgKsobwz8Y+GYp9Bb4Hwr8Sk85recbzzEs8K6RBVoad0N7Gnm+59gBiGxgeR/khFZs8qxwarnADULHt0I/0oY9J0PMQuSNIQMuDfttwXWxQjtTutFpWBFqrLBHY4VZgL2xYkBWuNdIClfP6achRaQN64xGCrPEfSPFgKQIrpEUnp7ST0IK/cuPB0Yjhfn94EaKAUkRXiMpfD2ln4YUWqXQc0cjhfl15kaKAUkRXSMp9CMxOA0ptAO8552HFOK2/Z/ZWr39n2Tw9X8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-23T12:14:18.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.48" etag="Nkw9PdhaN1gfrx7peI3i" version="20.2.0" type="github">
+  <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
+    <mxGraphModel dx="1422" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="69ecfefc5c41e42c-18" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" parent="1" source="69ecfefc5c41e42c-1" target="69ecfefc5c41e42c-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-1" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
+          <mxGeometry x="470" y="465" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-2" value="Internet" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Cloud_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="470" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-19" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" parent="1" source="69ecfefc5c41e42c-3" target="69ecfefc5c41e42c-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-3" value="Firewall" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Firewall_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="470" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
